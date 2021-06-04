@@ -1,0 +1,15 @@
+h1 {
+	margin: 1em 0;
+}
+
+h2 {
+	margin: 1em 0;
+}
+
+.pets-listing {
+	margin-bottom: 2em;
+}
+
+.form-control li {
+	list-style-type: none;
+}
